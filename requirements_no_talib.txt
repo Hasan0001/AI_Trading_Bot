@@ -1,0 +1,9 @@
+python-binance==1.0.19
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+tensorflow==2.16.1
+matplotlib==3.9.0
+python-dotenv==1.0.1
+pandas_ta==0.3.14b0
+pillow==10.4.0
